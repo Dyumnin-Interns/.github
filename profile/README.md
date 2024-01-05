@@ -9,6 +9,6 @@ Action Plan: Work with Engineering students with an aptitude for ASIC/FPGA devel
 * [Hyperbus](https://github.com/Dyumnin-Interns/cocotbext-hyperbus)
 
 ## Completed VIP's 
-*[SafeSPI](https://github.com/pipermintwala/cocotbext-safeSpi)
+* [SafeSPI](https://github.com/pipermintwala/cocotbext-safeSpi)
 
 🌈 Contribution guidelines - If you are new to cocotb watch [cocotb tutorial](https://youtu.be/WIKXy5tYCp4?si=FdleTUrBgxFKkWDm) Contact the repo owner to discuss your VIP plans.
