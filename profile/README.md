@@ -7,8 +7,11 @@ Action Plan: Work with Engineering students with an aptitude for ASIC/FPGA devel
 * [Bunch of Wires](https://github.com/Dyumnin-Interns/cocotbext-bow)
 * [CAN Bus](https://github.com/Dyumnin-Interns/cocotbext-can)
 * [Hyperbus](https://github.com/Dyumnin-Interns/cocotbext-hyperbus)
+* OSPI
+* ONFI
 
 ## Completed VIP's 
 * [SafeSPI](https://github.com/pipermintwala/cocotbext-safeSpi)
-
+* [Hyperbus](https://github.com/Dyumnin-Interns/cocotbext_hyperbus)
+  
 🌈 Contribution guidelines - If you are new to cocotb watch [cocotb tutorial](https://youtu.be/WIKXy5tYCp4?si=FdleTUrBgxFKkWDm) Contact the repo owner to discuss your VIP plans.
