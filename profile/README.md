@@ -7,7 +7,7 @@ Action Plan: Work with Engineering students with an aptitude for ASIC/FPGA devel
 * [Bunch of Wires](https://github.com/Dyumnin-Interns/cocotbext-bow)
 * [CAN Bus](https://github.com/Dyumnin-Interns/cocotbext-can)
 * [Hyperbus](https://github.com/Dyumnin-Interns/cocotbext-hyperbus)
-* OSPI
+* [OSPI](https://github.com/JitheshVijay/cocotbext-ospi)
 * [ONFI](https://github.com/Dyumnin-Interns/cocotbext-onfi)
 
 ## Completed VIP's 
